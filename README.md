@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on :Web Development ,Data Science,Github Actions
+- 🌱 I’m currently learning :DSA
+
+- Badges
+- ![Static Badge](https://img.shields.io/badge/java-orange)
+![Static Badge](https://img.shields.io/badge/c-yellow)
+![Static Badge](https://img.shields.io/badge/javascript-purple)
+![Static Badge](https://img.shields.io/badge/html-pink)
+
+GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pharshasreegayathricse2305a8-star&showicons=true)
